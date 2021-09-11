@@ -1,0 +1,55 @@
+body {
+  background: #FFE;
+  border: 3px solid black;
+  margin: 0;
+  padding: 30px;
+}
+
+@media only screen and (max-width: 600px) {				
+body {
+  background-color: lightblue;
+  }
+}
+
+
+h3 {
+   color: #887;
+}
+
+h4 {
+  color: #887;
+}
+
+
+a {
+  color: #900;
+}
+
+img {
+	border: 3px solid black;
+}
+
+ul li:hover {
+color: green;
+}
+
+.wet {
+color: blue;
+font-family: Avenir;
+}
+
+.dry {
+color: brown;
+font-family: Verdana;
+}
+
+ol {
+background-color: grey;
+}
+
+
+ul {
+background-color: rgba(211,211,211,0.3);
+}
+
+
